@@ -142,10 +142,3 @@ Add additional notes about how to deploy this on a live system
 
 * OpenGL
 * QtCreator
-
-## Authors
-
-* **GEBREHIWOT Awet**  **KINFU Kaleab** **MALLICK Rupayan**  **ZHAO Shanshan**  
-
-## Acknowledgments
-* We would like to extend our sincere gratitude to Professor Ludovic Hofer for introducing us to this fascinating subject and push us to work hard and learn more about it.   
